@@ -1,0 +1,2 @@
+clientes filter=lfs diff=lfs merge=lfs -text
+livro-servidor filter=lfs diff=lfs merge=lfs -text
